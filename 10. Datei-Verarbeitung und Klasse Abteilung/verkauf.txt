@@ -1,0 +1,9 @@
+Boss-Hemd;34,85
+GAP-Hemd;59,90
+GAP-Hemd;59,90
+Freizeithemd;39,90
+Freizeithemd;39,90
+Levis-505;49,95
+Levis-505;49,95
+Levis-505;49,95
+Wrangler-001;89,90
